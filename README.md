@@ -1,5 +1,9 @@
 # Healthcare Telemedicine Platform - Technical Design Document
 
+### Description
+
+A **HIPAA-compliant**, cloud-native platform designed to modernize healthcare delivery through secure telemedicine tools. Built for scalability and regulatory adherence, the platform integrates video consultations, EHR management, and AI-driven workflows to empower doctors and patients while ensuring data privacy.
+
 ## Overview
 
 A secure, HIPAA-compliant telemedicine platform enabling:
@@ -194,3 +198,23 @@ Designed for doctors and patients with end-to-end encryption and compliance-firs
 - AI symptom checker integration
 - Wearable device data sync (Apple Health/Fitbit)
 - Multi-party video consults (up to 5 participants)
+
+### 📜 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## 👥 Authors
+
+👤 **Nicholas Emmanuel**
+
+- GitHub: [@NickEmma](https://github.com/NickEmma)
+- Twitter: [@techieEmma](https://twitter.com/techieEmma)
+- LinkedIn: [@Nicholas Emmanuel](https://www.linkedin.com/in/techieemma/)
+- Website: [Nicholas Emmanuel](https://techieemma.me)
+
+👤 **Samuel Agbana**
+
+- GitHub: [@starktrix](https://github.com/starktrix)
+- Twitter: [@starktrix](https://twitter.com/starktrix)
+- LinkedIn: [@Samuel Agbana](https://www.linkedin.com/in/starktrix/)
+- Website: [Samuel Agbana](https://starktrix.me)
